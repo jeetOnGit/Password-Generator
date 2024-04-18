@@ -1,0 +1,20 @@
+.box{
+  background-color:  #F3F8FF;
+}
+
+.copyBtn{
+  background-color: #7E30E1;
+}
+.copyBtn:focus{
+  outline: none;
+}
+#demo{
+  background-color: #F3F8FF;
+  border: 1px solid #7E30E1;
+  border-radius: 10px;
+  color: #000;
+}
+#demo:focus{
+  outline: none;
+
+}
